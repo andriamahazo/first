@@ -1,0 +1,6 @@
+echo "#first" >>README.md
+git int
+git add README.md
+git commit -m'first commit'
+git remote add origin https://github.com/Andriamahazo/first.git
+git push -m origin master
